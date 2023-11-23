@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417" height="378" viewBox="0 0 417 378">
+  <g id="Group_3" data-name="Group 3" transform="translate(-807 -172)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="35" cy="35" r="35" transform="translate(807 243)" fill="#afacf9"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="35" cy="35" r="35" transform="translate(880 416)" fill="#9e62fe"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="56" height="152" rx="28" transform="translate(814 327)" fill="#ff6363"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="56" height="152" rx="28" transform="translate(960 479) rotate(-90)" fill="#ff8f50"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="56" height="160" rx="28" transform="translate(887 243)" fill="#64b3fe"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="56" height="293" rx="28" transform="translate(814 228) rotate(-90)" fill="#1cce66"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="56" height="293" rx="28" transform="translate(931 550) rotate(-90)" fill="#1da2ce"/>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(976 263)" fill="#fff" stroke="#cba9fe" stroke-width="1" stroke-dasharray="10">
+      <path d="M28,0h78a17,17,0,0,1,17,17V85a32,32,0,0,1-32,32H16A16,16,0,0,1,0,101V28A28,28,0,0,1,28,0Z" stroke="none"/>
+      <path d="M28,.5h78A16.5,16.5,0,0,1,122.5,17V85A31.5,31.5,0,0,1,91,116.5H16A15.5,15.5,0,0,1,.5,101V28A27.5,27.5,0,0,1,28,.5Z" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(989 273)" fill="#f4d143" stroke="#000" stroke-width="2">
+      <circle cx="48.5" cy="48.5" r="48.5" stroke="none"/>
+      <circle cx="48.5" cy="48.5" r="47.5" fill="none"/>
+    </g>
+    <path id="Polygon_1" data-name="Polygon 1" d="M27.7,0,55.4,47.5H0Z" transform="translate(1068 293.802) rotate(90)"/>
+    <text id="Hey_Kane_I_m_done_" data-name="Hey Kane, I&apos;m done!" transform="translate(880 209)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hey Kane, I&apos;m done!</tspan></text>
+    <text id="Wow_that_s_amazing" data-name="Wow , that&apos;s amazing" transform="translate(972 529)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Wow , that&apos;s amazing</tspan></text>
+  </g>
+</svg>
