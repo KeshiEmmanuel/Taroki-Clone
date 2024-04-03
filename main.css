@@ -11,7 +11,9 @@ body {
 html {
   scroll-behavior: smooth;
 }
-
+main {
+  overflow: hidden;
+}
 a,
 li {
   text-decoration: none;
@@ -80,8 +82,13 @@ button {
 .hero--text__span {
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-          background-clip: text;
-  background-image: linear-gradient(to right, black 55%, #b0adfe 100%, black 69%);
+  background-clip: text;
+  background-image: linear-gradient(
+    to right,
+    black 55%,
+    #b0adfe 100%,
+    black 69%
+  );
 }
 
 .navbar--signup {
@@ -195,7 +202,7 @@ button {
   justify-content: center;
   padding: 2em;
   -moz-column-gap: 0.4em;
-       column-gap: 0.4em;
+  column-gap: 0.4em;
   border-radius: 1em;
   margin-inline: auto;
   background-color: #f8f7f5;
@@ -231,7 +238,7 @@ button {
 .hero--text__span h2 {
   background-image: linear-gradient(to right, #333, #b0adfe, #333 75%);
   -webkit-background-clip: text;
-          background-clip: text;
+  background-clip: text;
   display: inline;
   -webkit-text-fill-color: transparent;
 }
@@ -286,7 +293,7 @@ button {
   display: flex;
   justify-content: center;
   -moz-column-gap: 1em;
-       column-gap: 1em;
+  column-gap: 1em;
 }
 
 .work--text {
@@ -665,7 +672,7 @@ button {
     display: flex;
     justify-content: center;
     -moz-column-gap: 0.45em;
-         column-gap: 0.45em;
+    column-gap: 0.45em;
   }
   .sx-section-wrapper {
     padding-inline: 1.25em;
@@ -719,4 +726,4 @@ button {
   .navbar {
     padding-inline: 0.75em;
   }
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */

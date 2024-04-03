@@ -31,7 +31,7 @@ const scrollToUp = () => {
 window.addEventListener("scroll", scrollHeader);
 window.addEventListener("click", scrollToUp);
 window.addEventListener("scroll", scrollUpAct);
-/* window.sr = ScrollReveal({
+window.sr = ScrollReveal({
   origin: "top",
   distance: "60px",
   duration: 2500,
@@ -54,4 +54,3 @@ sr.reveal(`.st-a`, { origin: "left", delay: 200 });
 sr.reveal(`.sx-section-details`, { origin: "top", delay: 200 });
 sr.reveal(`.sx-section-image`, { origin: "right", delay: 200 });
 sr.reveal(`.st-title`, { origin: "top", delay: 200 });
- */
